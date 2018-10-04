@@ -14,12 +14,14 @@ Anyone can contribute to this repo to make their contribution to open-source on 
  <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
 
 ## Getting Started
-* Add Your Name to the CONTRIBUTORS.md file using following model
+* Add a file with Yourname.extension to the CONTRIBUTORS folder using following model
 ```markdown
-Name: [github/username]
-Place: city you belong to
-About: Short Intro
-Programming Language: Which programming language do you know
+Then you can add 1 line of comments to state what's your name, and 1 line print where you're from!
+for example :
+```python
+#Miftahul J.
+print("Lombok, Indonesia")
+```
 ```
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
