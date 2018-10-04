@@ -18,23 +18,31 @@ Pull requests marked as spam will not be entitled for a T-shirt.
 
 # Getting Started
 
-Add Your Name to the CONTRIBUTORS.md file using following model
--Name: [github/username] 
--Place: city you belong to
--About: Short Intro
--Programming Language: Which programming language do you know
+## Getting Started
+* Add Your Name to the CONTRIBUTORS.md file using following model
+```markdown
+Name: [github/username]
+Place: city you belong to
+About: Short Intro
+Programming Language: Which programming language do you know
+```
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork down to your local machine
+```markdown
+git clone https://github.com/your-username/hacktoberfest2018.git
+```
+* Create a branch
+```markdown
+git checkout -b branch-name
+```
+* Make your changes (Choose from any task below)
+* Commit and Push
+```markdown
+git add .
+git commit -m 'commit message'
+git push origin branch-name
+```
+* Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__ if you had fun!
 
--Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
--Clone your fork down to your local machine
--git clone https://github.com/your-username/hacktoberfest2018.git
--Create a branch
--git checkout -b branch-name
--Make your changes (Choose from any task below)
--Commit and Push
--git add .
--git commit -m 'commit message'
--git push origin branch-name
--Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
--Wait for your PR review and merge approval!
--Star this repository if you had fun!
-.
