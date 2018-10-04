@@ -18,7 +18,9 @@ Anyone can contribute to this repo to make their contribution to open-source on 
 ```markdown
 Then you can add 1 line of comments to state what's your name, and 1 line print where you're from!
 for example, this code in python :
-```#Miftahul J.
+```
+```
+#Miftahul J.
 print("Lombok, Indonesia")
 ```
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
