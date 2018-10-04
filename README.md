@@ -21,7 +21,6 @@ for example, this code in python :
 ```#Miftahul J.
 print("Lombok, Indonesia")
 ```
-```
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 ```markdown
