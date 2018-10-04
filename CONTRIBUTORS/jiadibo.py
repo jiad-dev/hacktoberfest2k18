@@ -1,0 +1,2 @@
+#jiadibo
+print("Lombok, Indonesia")
