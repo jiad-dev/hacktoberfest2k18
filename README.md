@@ -1,4 +1,4 @@
-# hacktoberfest2k18
+## Hacktoberfest2k18
 hacktoberfest 2k18
 Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>.<br>
  
@@ -7,13 +7,6 @@ Anyone can contribute to this repo to make their contribution to open-source on 
  This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
  
 # What is Hacktoberfest?
- Hacktoberfest is a month long celebration held from Oct 1- Oct 31 By <a target="_blank" href="https://hacktoberfest.digitalocean.com/">Digital Ocean</a> and <a href="https://github.com/">Github</a> to get people involved in <strong>open-source</strong>.
-
-<h2>Rules</h2>
- To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
- <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
-
-# Rules
  Hacktoberfest is a month long celebration held from Oct 1- Oct 31 By <a target="_blank" href="https://hacktoberfest.digitalocean.com/">Digital Ocean</a> and <a href="https://github.com/">Github</a> to get people involved in <strong>open-source</strong>.
 
 <h2>Rules</h2>
