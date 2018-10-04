@@ -17,9 +17,8 @@ Anyone can contribute to this repo to make their contribution to open-source on 
 * Add a file with Yourname.extension to the CONTRIBUTORS folder using following model
 ```markdown
 Then you can add 1 line of comments to state what's your name, and 1 line print where you're from!
-for example :
-```python
-#Miftahul J.
+for example, this code in python :
+```#Miftahul J.
 print("Lombok, Indonesia")
 ```
 ```
