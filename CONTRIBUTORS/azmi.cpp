@@ -1,10 +1,11 @@
+//ULUL AZMI
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-    cout<<"Ulul AZMI, LOMBOK";
+    cout<<"Lombok, Indonesia";
 
     return 0;
 }
